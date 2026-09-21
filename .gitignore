@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets
+.env
+.env.*
+*.pem
+
+# Cocos Creator
+**/library/
+**/temp/
+**/local/
+**/build/
+**/profiles/
+**/native/
+**/.creator/
+
+# Node
+node_modules/
+
+# Editor
+.idea/
+.vscode/
